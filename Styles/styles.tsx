@@ -101,7 +101,7 @@ export const styles = StyleSheet.create({
     marginBottom:10
   },
   baseText3:{
-    fontSize:80,
+    fontSize:40,
     color:'#ECF4D6'
   },
   sistema:{

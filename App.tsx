@@ -258,7 +258,7 @@ export default function App() {
         ):(
           <>
             <Text style={styles.baseText3}>
-              {message}%
+              {message} NTU
             </Text>
           </>
         )
